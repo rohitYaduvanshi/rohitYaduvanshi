@@ -1,39 +1,39 @@
-- 👋 Hi, I’m Rohit Kumar
-- 🧠 I’m interested in Web Developer, Artificial Intelligence & GenAI.
-- 🔗 You can see my [Resume], [Linkedin](https://www.linkedin.com/in/muntazir-the-loner-996430293/).
+- 👋 Hi, I’m Rohit
+- 🧠 I’m interested in Software Engineering, Artificial Intelligence, and Machine Learning.
+- 🔗 You can see my [Resume], [Linkedin](https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/), and more on my [Linktree](linktr.ee/rohityaduvanshi03) account.
 - 💼 I’m looking for Contribution.
-- 📫 You can reach me via rohitkumarpc79@gmail.com
+- 📫 You can reach me via infixvlog@gmial.com.
 
 <br>
 
-<a href="https://github.com/rohitYaduvanahi" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=rohitYaduvanahi&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+<a href="https://github.com/rohitYaduvanshi" target="_blank">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=rohitYaduvanshi&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
 </a>
 
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rohitYaduvanahi&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rohitYaduvanshi&style=flat-square&color=blue" alt=""></p>
 
 <div align="center">  
-   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=rohitYaduvanahi&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
-  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=rohitYaduvanahi&theme=dark" alt="Ata's github streak stats"/>
+   <img width="45%" height="240px" src="https://github-readme-stats.vercel.app/api?username=rohitYaduvanshi&custom_title=%20GitHub%20Stats&show_icons=true&theme=holi&rank_icon=percentile" alt="Ata's github stats" /> 
+  <img width="45%" height="250px" src="https://streak-stats.demolab.com?user=rohitYaduvanshi&theme=dark" alt="Ata's github streak stats"/>
 </div>
 
 <div align="center">  
   
-  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/rohitYaduvanahi?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
+  <img width="90%" height="250px" src="https://myreadme.vercel.app/api/embed/rohitYaduvanshi?panels=userstatistics,toprepositories,toplanguages,commitgraph&theme=dark" alt="Ata's github extra stats"/>
 </div>
 
 <div align="center">  
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitYaduvanahi&theme=2077" alt="Ata's top lang stats per repo"/>
-  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitYaduvanahi&theme=2077" alt="Ata's top lang stats per commit"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitYaduvanshi&theme=2077" alt="Ata's top lang stats per repo"/>
+  <img width="45%" height="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohitYaduvanshi&theme=2077" alt="Ata's top lang stats per commit"/>
 </div>
 
 <div align="center"> 
   <h3> 🏆 GitHub Profile Trophy </h3>
 </div>
  <div>
-  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=rohitYaduvanahi&theme=onedark&bg_color=000000&column=-1"/>
+  <img width=1000 src="https://github-profile-trophy.vercel.app/?username=rohitYaduvanshi&theme=onedark&bg_color=000000&column=-1"/>
 </div>
 
 <div align="center"> 
@@ -57,7 +57,7 @@
 <br>
 
 <p align="center"> 
-  <a href = "https://leetcode.com/u/Muntazir_alam/">
+  <a href = "https://leetcode.com/u/Rohit_kumar_2/">
     <img src="https://leetcard.jacoblin.cool/Rohit_kumar_2?theme=unicorn&font=Almarai"/>
   </a>
 </p> 
@@ -69,7 +69,7 @@
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Muntazir_alam/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+  <a href="https://leetcode.com/u/Rohit_kumar_2/"><img src="https://img.shields.io/badge/-Leetcode-2EC866?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://www.linkedin.com/in/rohit-yaduvanshi-0493752a1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
